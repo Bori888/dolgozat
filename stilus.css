@@ -1,0 +1,58 @@
+body {
+	color: black;
+	background-color:black ;
+	margin: 10px;
+	
+}
+
+.hatter img {
+	width:100%;
+}
+.fejlec img {
+	width:100%;
+}
+.witcher img {
+	float:right;
+	width:250px;
+}
+.narancs{
+	background-color:orange;
+	text-align:center;
+}
+#tarolo {
+	background-color: #808080;
+	width: 100%;
+	max-width: 850px;
+	margin:auto; 
+}
+.masik img{
+	width:10%;
+	float:right;
+}
+.harmadik img {
+	width:100%;
+}
+
+.torles{
+	clear:both;
+}
+.menu{
+	background-color:black ;
+	color:white;
+	padding:20px;
+	margin:left;
+	
+}
+.menu a{
+	background-color:black ;
+	color:white;
+	
+	text-decoration:none;
+	border: 1px solid white;
+	padding:15px;
+	
+}
+.geralt img{
+	width:100%;
+
+}
